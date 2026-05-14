@@ -1,12 +1,9 @@
-# Hi, I'm Bernard Abousleiman 👋
-
-Data Science student at UC Santa Barbara (graduating June 2026)
+# Hi, I'm Bernard
 
 ## About Me
-- 🎓 B.S. Data Science, UC Santa Barbara | A.S. Computer Science & Mathematics, Las Positas College
-- 📍 Based in California, open to remote and relocation
-- ⚽ National-level soccer referee (NCAA Division I & professional) — 9 years, 2,000+ matches
-- 📫 Reach me at: bernardabousleiman@ucsb.edu | [LinkedIn](https://linkedin.com/in/bernard-abousleiman)
+- 🎓 B.S. Data Science
+- 📍 Based in California
+- 📫 Reach me at: thebadata1846@gmail.com
 
 ## Tech Stack
 **Languages:** Python, R, SQL, C/C++  
